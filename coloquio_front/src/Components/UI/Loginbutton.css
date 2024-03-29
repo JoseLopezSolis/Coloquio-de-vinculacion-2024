@@ -1,0 +1,19 @@
+/* CSS */
+.button-33 {
+  background-color: hsl(0, 0%, 100%);
+  border-radius: 10px;
+  color: #000;
+  cursor: pointer;
+  display: inline-block;
+  font-family: CerebriSans-Regular, -apple-system, system-ui, Roboto, sans-serif;
+  padding: 7px 20px;
+  text-align: center;
+  text-decoration: none;
+  transition: all 250ms;
+  border: 0;
+  font-size: 16px;
+  user-select: none;
+  -webkit-user-select: none;
+  touch-action: manipulation;
+  box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+}
